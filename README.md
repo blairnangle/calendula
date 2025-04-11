@@ -40,4 +40,4 @@ garden help
 
 ## License
 
-Copyright © 2024 Nextjournal
+Copyright © 2025 Nextjournal
