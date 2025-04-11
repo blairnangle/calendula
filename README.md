@@ -6,15 +6,37 @@ A minimal application to book personal appointments for deployment on [applicati
 
 Install the `garden` utility as described [here](https://docs.apps.garden/#installing-the-cli).
 
-`garden run`
+Run the project locally using `run`:
+
+```shell
+garden run --project .
+```
+
+Or:
+
+```shell
+garden run --project calendula
+```
 
 ## Deploy
 
-`garden deploy`
+Deploy the project remotely using `deploy`:
+
+```shell
+garden deploy --project .
+```
+
+Or:
+
+```shell
+garden deploy --project calendula
+```
 
 ## Help
 
-`garden help`
+```shell
+garden help
+```
 
 ## License
 
